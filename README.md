@@ -1,8 +1,7 @@
 # Computer Aided Diagnostics 
 
-A comprehensive collection of Computer Aided Diagnostics (CAD) projects focusing
-on medical image analysis, disease detection, and classification using traditional
-and deep learning approaches.
+Computer Aided Diagnostics (CAD) projects focusing on medical image analysis, 
+disease detection, classification using traditional and deep learning approaches.
 
 ## Project Overview
 
